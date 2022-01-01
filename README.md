@@ -1,5 +1,5 @@
 Final App link:
-https://breast-cancer-demo-predictor.herokuapp.com/predict
+https://breast-cancer-demo-predictor.herokuapp.com
 
 
 """Practice Project to deploy ML model on Heroku Platform with the help of FLASK framework"""
