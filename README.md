@@ -1,3 +1,7 @@
+Final App link:
+https://breast-cancer-demo-predictor.herokuapp.com/predict
+
+
 """Practice Project to deploy ML model on Heroku Platform with the help of FLASK framework"""
 """Business Problem/Goal of the ML project:
 To Determine whether patient has malignant tumor or benign tumor was the semi-automated and lengthy process in practice. The older process leads to manual intervention in result of threats and challenges like bad accuracy, exra time taken, overwait, overprocessing, duplicasy of works, waiting time in the cycle. To overcome from these challenges and threats using machine learning technique to create Cancer Detection ML model to classify malignant and benign tumor from the given features."""
